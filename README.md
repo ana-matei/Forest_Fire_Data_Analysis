@@ -2,7 +2,7 @@
 
 
 
-#Software Packages Project
+# Software Packages Project
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-##Introduction
+## Introduction
 
 The project has as starting point the dataset of the environmental conditions relevant to forest fires in a national park in Portugal. The variables collected are: 
 
