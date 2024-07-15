@@ -2,20 +2,19 @@
 
 
 
-Software Packages Project
-
-
-Student: Matei Ana Maria Valentina
-Group: 1104
+#Software Packages Project
 
 
 
 
 
 
-Introduction
+
+
+##Introduction
 
 The project has as starting point the dataset of the environmental conditions relevant to forest fires in a national park in Portugal. The variables collected are: 
+
 The month and day in which the fires happened.
 The FFMC represents the moisture content of litter and other cured fine fuels in a forest stand
 The Duff Moisture Code (DMC) represents fuel moisture of decomposed organic material underneath the litter
