@@ -51,13 +51,16 @@ This project analyzes a dataset of environmental conditions relevant to forest f
 ### Problem 4: Seasonal and Monthly Trends
 - Plots created using `matplotlib` to explore:
   - Burned area by month.
-    ![image](https://github.com/user-attachments/assets/811c91c9-f993-413a-aed3-89ff17b7cd3a)
+    
+![image](https://github.com/user-attachments/assets/811c91c9-f993-413a-aed3-89ff17b7cd3a)
 
   - Number of fires by season.
-    ![image](https://github.com/user-attachments/assets/ee608bdd-c1da-4f84-8737-f9b851b07e73)
+    
+![image](https://github.com/user-attachments/assets/ee608bdd-c1da-4f84-8737-f9b851b07e73)
 
   - Average monthly variable trends.
-    ![image](https://github.com/user-attachments/assets/6c08ce61-e408-4cc5-931d-597229dccb69)
+    
+![image](https://github.com/user-attachments/assets/6c08ce61-e408-4cc5-931d-597229dccb69)
 
 - Observations:
   - Duff Moisture Code (DMC) and Drought Code increase as fire frequency rises.
