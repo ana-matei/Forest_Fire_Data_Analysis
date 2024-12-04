@@ -84,6 +84,50 @@ This project analyzes a dataset of environmental conditions relevant to forest f
 
 ---
 
+### Problem 7: Statistical Analysis of Temperature
+- Conducted a **univariate analysis** of temperature data to extract meaningful insights.
+- Key Steps:
+  - Plotted a histogram of temperatures to visualize their distribution.
+  - Extracted statistical markers, including:
+    - **Mean**: Central tendency of temperatures.
+    - **Median**: Middle value in the dataset.
+    - **Standard Deviation**: Variability of temperature data.
+- Insights:
+  - The statistical analysis provides an understanding of temperature behavior, a critical factor influencing fire conditions.
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/user-attachments/assets/cfa9e2b0-00e1-40a0-872b-5df4d3ecec22" alt="Image 1" width="45%" style="margin-right: 5%;" />
+  <img src="https://github.com/user-attachments/assets/059a0a9e-42bf-41b4-ac63-f1ec4aea5612" alt="Image 2" width="45%" />
+</div>
+---
+
+### Problem 8: Linear Regression Analysis
+- Applied **linear regression** to model the relationship between variables.
+  - **Dependent Variable:** Area burned.
+  - **Independent Variables:** Environmental factors (e.g., temperature, humidity, and wind speed).
+- Objective:
+  - Determine how strongly environmental variables influence the area burned.
+- Tools Used:
+  - `sklearn` for regression modeling.
+- Findings:
+  - Regression results highlight the interplay of various factors, demonstrating that fire severity cannot be attributed to a single variable alone.
+
+![image](https://github.com/user-attachments/assets/bf0b2259-56d3-43f7-b94e-533c910ada9c)
+
+---
+
+### Problem 9: Seasonal Fire Distribution
+- Created a **pie chart** to analyze the seasonal distribution of fires.
+- Key Observations:
+  - Certain seasons exhibit significantly higher fire occurrences.
+  - These patterns align with environmental conditions such as temperature, wind, and humidity.
+- Visualization:
+  - Pie charts provide an intuitive understanding of seasonal fire trends.
+
+![image](https://github.com/user-attachments/assets/73dae8c3-b36d-47ef-85d9-0b3bc48e60d2)
+
+---
+
 ## 🧰 Tools and Libraries
 - **Python**: Core programming language.
 - **Pandas**: Data manipulation and analysis.
