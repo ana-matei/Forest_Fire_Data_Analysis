@@ -20,6 +20,7 @@ This project analyzes a dataset of environmental conditions relevant to forest f
 ### Problem 1: Data Preparation
 - Imported the dataset into a Pandas DataFrame for easy manipulation.
 - Checked and handled missing values to ensure reliable data processing.
+![image](https://github.com/user-attachments/assets/ab73d416-31d7-4cc5-bbb4-f37fd44cbd79)
 
 ---
 
